@@ -16,6 +16,4 @@ https://github.com/joshuabecker91/fathershouse
 
 Second iteration of site. First repo is fhwebsite.
 
-![image](https://user-images.githubusercontent.com/98496684/209680367-516d0baa-3e10-4114-942f-bc8a8b1c0dd0.png)
-
-![image](https://user-images.githubusercontent.com/98496684/209997250-a66dcd3f-f736-45a8-a003-735806d39eef.png)
+![image](https://user-images.githubusercontent.com/98496684/210122972-2b288569-55ef-4d29-a506-d31114d48e76.png)
