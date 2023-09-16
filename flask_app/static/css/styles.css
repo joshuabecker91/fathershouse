@@ -11396,7 +11396,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(0, 0, 0, .75) 0%, rgba(0, 0, 0, 1) 100%), url("/static/img/wood.jpeg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, .75) 0%, rgba(0, 0, 0, 1) 100%), url("/static/img/wood.jpg");
   /* background: linear-gradient(to bottom, rgba(0, 0, 0, .3) 0%, rgba(0, 0, 0, 1) 100%), url("/static/img/pine_lg.jpg"); */
   filter: grayscale(100%);
   /* filter: saturate(); */
